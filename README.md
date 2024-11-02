@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m Maryann!
-I'm a Computer Science student and Frontend web-developer who loves working building awesome web applications!👩🏾‍💻
+I'm a Computer Science student and Frontend web-developer who loves working and building awesome web applications!👩🏾‍💻
 
 
 
